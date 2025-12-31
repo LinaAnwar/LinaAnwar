@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am an Artificial Intelligence student with a strong passion for technology, problem-solving, and continuous learning.
 
 <!--
 **LinaAnwar/LinaAnwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
