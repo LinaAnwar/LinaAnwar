@@ -1,5 +1,8 @@
-## Hi there 👋
-I am an Artificial Intelligence student with a strong passion for technology, problem-solving, and continuous learning.
+## Hi there!👋
+I am a first-year AI student, learning the basics of programming and artificial intelligence.
+I use Java and Python at a basic level, and I am actively learning machine learning to expand my AI skills.
+You can reach me through my social media platforms.
+
 
 <!--
 **LinaAnwar/LinaAnwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
